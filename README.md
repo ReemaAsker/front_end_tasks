@@ -1,8 +1,8 @@
 <html lang="en">
   <head>
     <meta charset="UTF-8">
-    <title>The Benefits of Daily Walking</title>
-  </head>
+<!--     <title>The Benefits of Daily Walking</title>
+  </head> -->
   <body>
     <h1>The Benefits of Daily Walking</h1>
     <p>
